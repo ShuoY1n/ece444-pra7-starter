@@ -13,3 +13,8 @@ def is_empty(history):
     if history is None:
         return True
     return len(history) == 0
+
+
+def broken_total():
+    missing_total = 0
+    return missing_total
